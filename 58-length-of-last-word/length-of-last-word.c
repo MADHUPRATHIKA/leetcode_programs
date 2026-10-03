@@ -1,4 +1,3 @@
-#include <string.h>
 
 int lengthOfLastWord(char *s) {
     int length = 0;
@@ -13,3 +12,4 @@ int lengthOfLastWord(char *s) {
 
     return length;
 }
+    
